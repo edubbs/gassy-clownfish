@@ -1,5 +1,7 @@
 package main.java.intfTest;
-
+/*
+ * Here's a comment.
+ */
 public class Softball implements Sport {
 	double price;
 	String name;
